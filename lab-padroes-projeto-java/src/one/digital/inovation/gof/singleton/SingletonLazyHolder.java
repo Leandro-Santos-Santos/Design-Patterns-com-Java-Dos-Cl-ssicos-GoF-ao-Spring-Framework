@@ -1,4 +1,4 @@
-package one.digital.inovation.gof;
+package one.digital.inovation.gof.singleton;
 /*Singleton "Lento" 
  * @autor Leandro
  * 
